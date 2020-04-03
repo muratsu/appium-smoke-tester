@@ -1,4 +1,4 @@
-# Appium Smoke Testerr
+# Appium Smoke Tester
 
 This is a WIP.
 
